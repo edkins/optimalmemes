@@ -1,0 +1,11 @@
+{
+	"anyOf": [
+		{
+			"type":"object",
+			"properties": {
+				"state": {"enum":["gone"]}
+			},
+			"required": ["state"]
+		}
+	]
+}
