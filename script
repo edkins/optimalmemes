@@ -1,0 +1,10 @@
+require commands apt
+require command lsb_release
+require keyword assert
+
+assert eq
+	lsb_release -i
+	"Distributor ID:\tUbuntu"
+apt update
+apt install nginx
+
