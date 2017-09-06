@@ -1,2 +1,6 @@
+set -e
 mkdir -p output
-mustache data/index.yaml template/main.mustache >output/index.html
+for x in index team; do
+	mustache data/$x.yaml template/main.mustache >output/$x.html
+done
+cp assets/* output

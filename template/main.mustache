@@ -2,8 +2,19 @@
 <head>
 <meta charset="utf-8">
 <title>{{title}} -- Optimal Memetics Institute</title>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
-{{content}}
+<h1>Optimal Memetics Institute</h1>
+<hr>
+<div class="toolbar">
+<a class="{{^home}}in{{/home}}active" href="index.html">
+About</a>
+<a class="{{^team}}in{{/team}}active" href="team.html">
+Team</a>
+</div>
+<div>
+{{{content}}}
+</div>
 </body>
 </html>

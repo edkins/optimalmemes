@@ -1,0 +1,48 @@
+body {
+	background: #035;
+	color: #fff;
+	font-family: sans-serif;
+	max-width: 650px;
+	margin: 40px auto;
+}
+h1 {
+	font-weight: normal;
+}
+.active {
+	background: #479;
+	padding: 4px;
+	color: #fff;
+}
+.inactive {
+	background: #257;
+	padding: 4px;
+	color: #fff;
+}
+.toolbar {
+	margin-bottom: 15px;
+}
+.profile img {
+	width: 100px;
+	height: 100px;
+	margin: 3px 10px 3px 0px;
+	vertical-align: top;
+}
+.profile div {
+	display: inline-block;
+	max-width: 400px;
+	vertical-align: top;
+}
+.profile h2 {
+	font-size: 18px;
+	font-weight: bold;
+	line-height: 1.2;
+	margin: 0px;
+}
+.profile h3 {
+	font-size: 16px;
+	font-weight: normal;
+	font-style: italic;
+	line-height: 1.2;
+	margin: 0px;
+}
+

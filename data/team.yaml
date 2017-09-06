@@ -1,0 +1,63 @@
+title: Team
+content: |
+        <h1>Executive</h1>
+        <div class="profile">
+                <img src="evan.jpg">
+                <div>
+                <h2>Evan Gaensbauer</h2>
+                <h3>Executive Director</h3>
+                Evan's main interests are erudite shitposting and meme magick.
+                </div>
+        </div>
+        <div class="profile">
+                <img src="leif.jpg">
+                <div>
+                <h2>Leif K-Brooks</h2>
+                <h3>President</h3>
+                Leif K-Brooks is one of those earning-to-give type people and specializes in bitingly satirical memes.
+                </div>
+        </div>
+        <div class="profile">
+                <img src="jeff.jpg">
+                <div>
+                <h2>Jeff Jordan</h2>
+                <h3>Chairman</h3>
+                As the founder of the original Dank EA Memes, Jeff saw the project grow from him and a few buddies posting some crappy memes to a thriving community of 3000ish.
+                </div>
+        </div>
+        <h1>Research Department</h1>
+        <div class="profile">
+                <img src="matiss.jpg">
+                <div>
+                <h2>Matīss Apinis</h2>
+                <h3>Research Director</h3>
+                He brought Machine Doggo to OMfCT.
+                </div>
+        </div>
+        <h1>Shenanigans Department</h1>
+        <div class="profile">
+                <img src="dony.jpg">
+                <div>
+                <h2>Dony Christie</h2>
+                <h3>VP, Shenanigans</h3>
+                A source of startlingly creative memes and other scheming.
+                </div>
+        </div>
+        <div class="profile">
+                <img src="giles.jpg">
+                <div>
+                <h2>Giles Edkins</h2>
+                <h3>WTF</h3>
+                He is mostly responsible for the kind of memes that are probably really clever if anyone actually understood them.
+                </div>
+        </div>
+        <h1>Community Outreach Department</h1>
+        <div class="profile">
+                <img src="amp.jpg">
+                <div>
+                <h2>Amp</h2>
+                <h3>Diversity Officer</h3>
+                Amp is new to memeing but is "super excited to wade in and stir the pot a bit".
+                </div>
+        </div>
+team: true
