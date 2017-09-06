@@ -1,5 +1,8 @@
 title: Home
 content: |
-        hi<br>
-        more text
+        <h1>We make memes</h1>
+        <p>We make them dank.</p>
+
+        <p>We make them for the good of everyone - specifically, all sentient or morally relevant beings throughout the entire history of all possible universes. But we focus on what's <em>practical</em> - tried, tested, trusted approaches as well as speculative but plausible ones.</p>
+
 home: true
