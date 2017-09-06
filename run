@@ -1,1 +1,2 @@
-python3 process_state.py
+mkdir -p output
+mustache data/index.yaml template/main.mustache >output/index.html
